@@ -1,0 +1,16 @@
+# MacOS dust
+.DS_Store
+
+# Rust target
+target/
+
+# Monorepo workspace
+monorepo/
+
+# Environment Variables
+.env
+
+.idea
+
+# kona-host data-dir
+data/
